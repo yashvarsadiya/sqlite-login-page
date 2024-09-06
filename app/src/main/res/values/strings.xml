@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SqliteDatabaseDemo1</string>
+
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <style name="roundimageview" parent="">
+
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+        <item name="color">@color/colorWhite</item>
+<!--        <item name="borderWidth">3dp</item>-->
+
+    </style>
+
+</resources>
